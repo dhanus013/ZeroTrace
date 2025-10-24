@@ -1,3 +1,7 @@
+
+
+---
+
 # 🚗 Automobile Emission Tracker
 
 ## 🌿 Overview
@@ -60,6 +64,8 @@ The ML pipeline uses automobile datasets with features like:
 [User Input] → [Frontend: React] → [Flask API] → [ML Model]
                               ↓
                      [Prediction Output + Charts]
+
+
 ---
 
 🚀 Installation & Setup
@@ -82,13 +88,11 @@ pip / npm installed
 git clone https://github.com/yourusername/automobile-emission-tracker.git
 cd automobile-emission-tracker
 
-
 2. Backend Setup
 
 cd backend
 pip install -r requirements.txt
 python app.py
-
 
 3. Frontend Setup
 
@@ -96,18 +100,13 @@ cd frontend
 npm install
 npm start
 
-
 4. Connect Firebase
 
 Add your Firebase project credentials in firebaseConfig.js.
 
-
-
 5. Deploy
 
 firebase deploy
-
-
 
 
 ---
@@ -170,7 +169,8 @@ Name	Role
 Dhanush R	Developer & ML Engineer
 Chandru J	Frontend Developer
 Dhileepraj P	Data Analyst
-Rakesh P Data Analyst
+Rakesh P	Data Analyst
+
 
 
 ---
@@ -187,3 +187,5 @@ This project is licensed under the MIT License.
 By helping users measure and reduce emissions, this project supports UN Sustainable Development Goal 13 – Climate Action, encouraging responsible and green transportation choices.
 
 ---
+
+Would you like me to add **GitHub badges** (Python version, License, Build passing, etc.) and a **preview image section** (for your app screenshot or banner)? That would make it look even more professional for submission or portfolio display.
