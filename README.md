@@ -86,7 +86,7 @@ The model achieved high accuracy and performs well across diverse fuel types.
       ↓
 [Prediction Output + Charts]
 ```
-##🚀 Installation & Setup
+## 🚀 Installation & Setup
 🔧 Prerequisites
  * Python 3.9+
  * Node.js 16+
@@ -112,7 +112,7 @@ Add your Firebase project credentials in frontend/src/firebaseConfig.js.
 5. Deploy (Optional)
 firebase deploy 
 
-##🧰 File Structure
+## 🧰 File Structure
 Automobile-Emission-Tracker/
 ├── backend/
 │   ├── app.py
@@ -129,12 +129,14 @@ Automobile-Emission-Tracker/
 ├── README.md
 └── LICENSE
 
-##💡 Future Enhancements
+
+## 💡 Future Enhancements
  * Add real-time GPS-based emission tracking.
  * Suggest electric/hybrid alternatives based on user input.
  * Include government emission norms & alert system.
  * Deploy as a full PWA mobile app.
-##👥 Team Members
+
+## 👥 Team Members
 | Name | Role |
 |---|---|
 | Dhanush R | Developer & ML Engineer |
@@ -142,6 +144,6 @@ Automobile-Emission-Tracker/
 | Dhileepraj P | Data Analyst |
 | Rakesh P | Data Analyst |
 
-##🌍 Impact
+## 🌍 Impact
 By helping users measure and reduce emissions, this project supports UN Sustainable Development Goal 13 – Climate Action, encouraging responsible and green transportation choices.
 
