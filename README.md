@@ -14,12 +14,6 @@ The **Automobile Emission Tracker** is a Machine Learning–based web applicatio
 
 ---
 
-## 📸 Application Preview
-| Mobile View | Desktop View |
-| :---: | :---: |
-| [attachment_0](attachment) |  |
-
----
 
 ## 🧩 Problem Statement
 Transportation contributes significantly to global CO₂ emissions. However, most vehicle owners lack tools to monitor or estimate their emissions accurately. This project addresses that gap by providing a simple, data-driven platform that predicts emissions and raises awareness about sustainable mobility.
@@ -94,7 +88,7 @@ The model achieved high accuracy and performs well across diverse fuel types.
  * pip / npm installed
 🪜 Steps
 1. Clone the Repository
-git clone [https://github.com/yourusername/automobile-emission-tracker.git](https://github.com/yourusername/automobile-emission-tracker.git)
+git clone [https://github.com/yourusername/automobile-emission-tracker.git](https://github.com/dhanus013/ZeroTrace.git)
 cd automobile-emission-tracker 
 
 2. Backend Setup
