@@ -88,7 +88,8 @@ The model achieved high accuracy and performs well across diverse fuel types.
  * pip / npm installed
 🪜 Steps
 1. Clone the Repository
-git clone [https://github.com/yourusername/automobile-emission-tracker.git](https://github.com/dhanus013/ZeroTrace.git)
+git clone [https://github.com/dhanus013/ZeroTrace.git](https://github.com/dhanus013/ZeroTrace.git)
+
 cd automobile-emission-tracker 
 
 2. Backend Setup
